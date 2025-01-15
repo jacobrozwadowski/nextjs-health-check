@@ -1,0 +1,6 @@
+const services = [
+  { name: 'Frontend (cutslut.app)', url: 'https://cutslut.app/' },
+  { name: 'Frontend (egirls.date)', url: 'https://egirls.date/' },
+  { name: 'Backend (Discord Module API)', url: 'https://api.cutslut.app' },
+  { name: 'Postgres Database', url: 'https://api.cutslut.app' },
+];
